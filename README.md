@@ -30,3 +30,24 @@ and clean, readable code.
 
 
 
+### Day 02 – if–else Statements
+Focused on **decision-making and conditional logic** using Python.
+
+**Concepts Covered:**
+- Simple `if`
+- `if–else`
+- `if–elif–else`
+- Nested `if`
+- Interview-standard conditional problems
+
+**Problems Implemented:**
+- Vote eligibility check
+- Positive or negative number
+- Grade calculation
+- Login validation
+- Largest of three numbers
+- Even or odd check
+- Leap year validation
+
+
+
