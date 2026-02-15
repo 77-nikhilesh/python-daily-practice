@@ -51,3 +51,30 @@ Focused on **decision-making and conditional logic** using Python.
 
 
 
+### Day 03 – Loops
+
+Focused on building strong **iteration and logic skills** using Python loops.
+The practice includes multiple problems per concept, written with clean structure and expected outputs for easy understanding.
+
+**Concepts Covered:**
+- `for` loop
+- `while` loop
+- `range()` function
+- `break`, `continue`, and `pass`
+- Nested loops
+- Loop with `else`
+
+**Problems Implemented:**
+- Printing number sequences
+- Sum of natural numbers
+- Reverse a number using loops
+- Prime number check
+- Factorial calculation
+- Digit count in a number
+- Multiplication tables
+- Star pattern printing
+- Coordinate pair generation
+
+
+
+
