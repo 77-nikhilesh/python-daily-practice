@@ -77,4 +77,28 @@ The practice includes multiple problems per concept, written with clean structur
 
 
 
+### Day 04 – Functions
+
+Focused on building strong **modular and reusable code** using Python functions.
+
+**Concepts Covered:**
+- Function definition and calling
+- Arguments and return values
+- Default and keyword arguments
+- Variable-length arguments (*args, **kwargs)
+- Lambda (anonymous) functions
+- Recursion
+
+**Problems Implemented:**
+- Simple greetings and utility functions
+- Addition, multiplication, and arithmetic operations
+- Area calculation and temperature conversion
+- Even/Odd checks and factorial calculation
+- Maximum of numbers
+- Star patterns (via functions)
+- Recursion-based Fibonacci, factorial, string reversal, and digit counting
+
+
+
+
 
