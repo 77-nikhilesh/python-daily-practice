@@ -101,4 +101,31 @@ Focused on building strong **modular and reusable code** using Python functions.
 
 
 
+### Day 05 – Strings
+
+Focused on mastering **string manipulation and text processing** in Python.
+The practice covers basic operations, built-in methods, slicing techniques, and real-world string-based problems.
+
+**Concepts Covered:**
+- String creation and indexing
+- String methods (upper, lower, replace, count, strip, etc.)
+- String slicing and reversing
+- String condition checks
+- Iterating through strings using loops
+
+**Problems Implemented:**
+- Length and character access
+- String concatenation and repetition
+- Counting vowels and consonants
+- Palindrome checking
+- Word count in a sentence
+- Longest word identification
+- Email validation (basic)
+- Uppercase character counting
+- Removing vowels from strings
+
+
+
+
+
 
