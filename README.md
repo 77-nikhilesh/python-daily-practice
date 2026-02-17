@@ -126,6 +126,49 @@ The practice covers basic operations, built-in methods, slicing techniques, and 
 
 
 
+# Day 06 – Revision & Practice
+
+Focused on **revising and strengthening all previously covered Python concepts** through **mixed and interview-oriented problems**.
+
+Instead of learning a new topic, this day emphasizes **practice, clarity, and confidence**
+by combining multiple concepts in single programs.
+
+
+## Topics Revised
+
+- Python Operators
+- if–else Statements
+- Loops
+- Functions
+- Strings
+
+
+## Concepts Applied
+
+- Operators inside conditional logic
+- Loops combined with if–else conditions
+- Functions for reusable logic
+- String and number processing using loops
+- Modular and readable code structure
+
+
+## Problems Practiced
+
+- Menu-driven calculator using functions and operators
+- Prime number check using functions
+- Factorial and Fibonacci using loops and recursion
+- Palindrome check for strings and numbers
+- Vowel, digit, and special character counting
+- Login validation using string comparison
+- Pattern printing using nested loops
+- Mixed logical revision problems
+
+---
+
+
+
+
+
 
 
 
