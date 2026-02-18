@@ -168,6 +168,41 @@ by combining multiple concepts in single programs.
 
 
 
+### Day 07 – Lists
+
+Focused on building a **strong foundation in Python Lists**, covering everything from basic operations to **real-world problem solving** using list data structures.
+
+The practice emphasizes **clarity, logic, and practical usage** with expected outputs mentioned for every program.
+
+---
+
+**Concepts Covered:**
+- List creation and indexing
+- List slicing
+- List traversal using loops
+- Conditional logic with lists
+- Built-in list methods
+- Nested lists
+- Real-world list-based applications
+
+---
+
+**Problems Implemented:**
+- Adding, removing, and updating list elements
+- Finding sum, average, max, and min values
+- Counting elements based on conditions
+- Sorting and reversing lists
+- Working with nested lists and matrices
+- Student marks analysis
+- Shopping cart billing system
+- Employee salary processing
+- Attendance management system
+- Inventory and expense tracking
+
+
+
+
+
 
 
 
