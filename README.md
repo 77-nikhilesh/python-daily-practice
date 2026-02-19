@@ -201,6 +201,35 @@ The practice emphasizes **clarity, logic, and practical usage** with expected ou
 
 
 
+### Day 08 – Tuples in Python
+
+Focused on understanding **immutable and structured data storage** using Python tuples.
+
+**Concepts Covered:**
+
+* Tuple creation and immutability
+* Indexing and slicing
+* Tuple operations and methods
+* Tuple unpacking and swapping
+* Nested tuples
+* Real-world tuple applications
+
+**Problems Implemented:**
+
+* Accessing and slicing tuple elements
+* Tuple concatenation, repetition, and comparison
+* Membership testing and iteration
+* Using `count()` and `index()` methods
+* Swapping values using tuple unpacking
+* Extracting data from nested tuples
+* Student record and employee salary processing
+* Product price calculations
+* Attendance and coordinate-based problems
+
+
+
+
+
 
 
 
