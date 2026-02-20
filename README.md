@@ -229,6 +229,23 @@ Focused on understanding **immutable and structured data storage** using Python 
 
 
 
+### Day 09 – Sets in Python
+
+Focused on working with **unique and unordered data** using Python sets.
+
+**Concepts Covered:**
+- Set creation and uniqueness
+- Set methods and membership testing
+- Set operations and comparisons
+- Iteration and conditional logic
+
+**Problems Implemented:**
+- Removing duplicates from datasets
+- Attendance and subject comparison
+- Finding common and unique elements
+- Real-world applications using sets
+
+
 
 
 
