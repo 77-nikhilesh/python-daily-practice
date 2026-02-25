@@ -1,11 +1,20 @@
 # python-daily-practice
 
 This repository contains my **daily Python practice programs**.
-Currently, it includes **Day 01 – Python Operators**, covering all operator types
-with clear examples and expected outputs.
+Currently, it includes 
+**Day 01 – Python Operators**,
+**Day 02 – if–else Statements**,
+**Day 03 – Loops**,
+**Day 04 – Functions**,
+**Day 05 – Strings**,
+**Day 06 – Revision & Practice**,
+**Day 07 – Lists**,
+**Day 08 – Tuples in Python**,
+**Day 09 – Sets in Python**,
+**Day 10 – Dictionaries in Python**,
+ covering all operator types with clear examples and expected outputs.
 
-The goal of this repository is to build strong Python fundamentals through
-consistent, hands-on practice and maintain a well-structured learning record on GitHub.
+The goal of this repository is to build strong Python fundamentals through consistent, hands-on practice and maintain a well-structured learning record on GitHub.
 
 ---
 
@@ -126,7 +135,7 @@ The practice covers basic operations, built-in methods, slicing techniques, and 
 
 
 
-# Day 06 – Revision & Practice
+### Day 06 – Revision & Practice
 
 Focused on **revising and strengthening all previously covered Python concepts** through **mixed and interview-oriented problems**.
 
@@ -247,9 +256,20 @@ Focused on working with **unique and unordered data** using Python sets.
 
 
 
+### Day 10 – Dictionaries in Python
 
+Focused on working with **key–value based structured data** using Python dictionaries.
 
+**Concepts Covered:**
+- Dictionary creation and updates
+- Dictionary methods and iteration
+- Nested dictionaries
+- Conditional logic with dictionaries
 
-
-
+**Problems Implemented:**
+- Student and employee data processing
+- Login validation system
+- Word frequency counter
+- Product billing and salary hike problems
+- Real-world dictionary applications
 
